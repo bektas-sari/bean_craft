@@ -45,13 +45,6 @@ pubspec.yaml          # Dependencies and asset references
 
 ---
 
-## 📷 Preview
-
-> ![screenshot](assets/images/kahve.jpg)  
-_Add an actual screenshot here after uploading your app image._
-
----
-
 ## 👨‍💼 Developed by
 
 **Bektas Sarı**  
