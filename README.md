@@ -51,5 +51,3 @@ pubspec.yaml          # Dependencies and asset references
 📧 bektas.sari@gmail.com
 
 ---
-
-> Built with ☕, passion, and Flutter 💛
