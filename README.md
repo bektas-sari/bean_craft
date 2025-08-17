@@ -1,4 +1,4 @@
-# ☕ BeanCraft
+# ☕ BeanCraft (Flutter APP)
 
 **"One Cup Away from a Great Day..."**
 
